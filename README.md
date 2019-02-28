@@ -11,3 +11,4 @@ list of members
 | Gupta | Mili | PJATOHOO | e^(iπ) + 1 |
 | Nathan | Jay | jn8302 | Why is it so cold in here? | 
 | Vij | Yash | yv3060 | I love coding :) |
+| Yonas | Caleb | Zaptrix | I dont think I git it... |
